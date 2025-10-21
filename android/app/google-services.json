@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133817815860",
+    "project_id": "cancare-c2e99",
+    "storage_bucket": "cancare-c2e99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133817815860:android:81071563f1d28d4f838b61",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAR7PkjONUdwE1gcihtPntJk4GgEdm2KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
