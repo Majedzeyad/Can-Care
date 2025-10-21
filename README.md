@@ -1,16 +1,33 @@
-# flutter_application_1
+# Can-Care
 
-A new Flutter project.
+A Flutter healthcare management system with custom AppBar implementation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a healthcare management system built with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Custom AppBar component with theme and language support
+- Multi-language support (Arabic/English)
+- Dark/Light theme support
+- User authentication
+- Registration system
+- Dashboard with statistics
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+- `lib/components/` - Reusable UI components
+- `lib/information/` - Authentication and registration pages
+- `lib/dashboard/` - Dashboard and main application pages
+- `lib/theme/` - App theming and styling
+- `lib/provider/` - State management
+
+## Custom AppBar
+
+All pages use the `CustomAppBar` component which provides:
+- Consistent theming across the app
+- Language toggle functionality
+- Theme toggle functionality
+- Back button support
+- Additional menu options for main pages
